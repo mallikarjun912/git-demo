@@ -1,7 +1,9 @@
 package demo;
 
 public class HelloGitDemo {
-
+	public static void dev2Method() {
+		System.out.println("this is dev2 branch"); 
+	}
 	public static void sayHello() {
 		System.out.println("this is sample method");  
 	}
